@@ -166,16 +166,16 @@
 
 
 
-//Filter out all students whose names constain <5 characters
+// Filter out all students whose names constain <5 characters
 // let students = ["Riya", "Omar", "Alan", "Jiayu", "Michael", "Lisa", "Richard"];
 // const newArr = students.filter(word => word.length > 5);
 // console.log(newArr);
 
-//Check if includes Junshen
+// Check if includes Junshen
 // let students = ["Riya", "Omar", "Alan", "Jiayu", "Michael", "Lisa", "Richard"];
 // console.log(students.includes("Junshen"));
 
-//Check if Alan or Savva included in "some"
+// Check if Alan or Savva included in "some"
 // let students = ["Riya", "Omar", "Alan", "Jiayu", "Michael", "Lisa", "Richard"];
 // console.log(students.includes("Alan" || "Savva"));
 // OR USE
