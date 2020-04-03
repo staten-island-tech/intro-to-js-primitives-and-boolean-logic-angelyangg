@@ -178,3 +178,5 @@
 //Check if Alan or Savva included in "some"
 // let students = ["Riya", "Omar", "Alan", "Jiayu", "Michael", "Lisa", "Richard"];
 // console.log(students.includes("Alan" || "Savva"));
+// OR USE
+// console.log(students.some(name => name == "Savva" || name == "Alan"));
